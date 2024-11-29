@@ -33,7 +33,7 @@ Proyek ini adalah sistem manajemen reservasi untuk salon rambut Restar. Sistem i
   - Admin dapat mengakses daftar pelanggan yang telah mendaftar di sistem.
 
 ## Struktur Proyek
-Kode proyek ini tersedia dalam bentuk file ZIP yang mencakup:
+Kode proyek ini mencakup:
 - *Kode utama*: File Java yang mengimplementasikan sistem reservasi.
 - *Library yang digunakan*:
   - *JCalendar*: Untuk memilih tanggal dan waktu secara interaktif.
